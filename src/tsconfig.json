@@ -21,6 +21,6 @@
         "pretty": true,
         "lib": ["esnext", "dom"]
     },
-    "include": ["../src/**/*.ts", "../typings.d.ts"],
+    "include": ["../src/**/*.ts", "../typings.d.ts", "../server.ts"],
     "exclude": ["node_modules"]
 }
